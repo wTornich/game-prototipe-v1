@@ -28,4 +28,4 @@ Como engine, projeto  foi desenvolvido na Unity, utilizando elementos 3D com scr
 
 ### Gameplay do Projeto
 
-[![Gameplay](https://github.com/wTornich/game-prototipe-v1/blob/main/Readme%20Imgs/gameplay.png?raw=true)](https://youtu.be/vt5fpE0bzSY)
+[![Gameplay](https://github.com/wTornich/game-prototipe-v1/blob/main/Readme%20Imgs/gameplay.png?raw=true)](https://www.youtube.com/watch?v=JawvSIwpLmY)
